@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    {
+      "name": "asobo-vcockpits-instruments-navsystems"
+    }
+  ],
+  "content_type": "CORE",
+  "title": "Styled g3000 TSC",
+  "manufacturer": "Garmin",
+  "creator": "Stuart Tozer",
+  "package_version": "0.1.2",
+  "minimum_game_version": "1.9.30",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "Version 0.1.0b\\nInitial beta release.",
+      "OlderHistory": ""
+    }
+  }
+}

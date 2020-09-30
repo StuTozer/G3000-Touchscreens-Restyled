@@ -1,0 +1,185 @@
+{
+  "content": [
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/AS3000/TSC/AS3000_TSC_Common.js",
+      "size": 151059,
+      "date": 132442481351593768
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/AS3000/TSC/Horizontal/AS3000_TSC_Horizontal.css",
+      "size": 115207,
+      "date": 132441483492536644
+    },
+    {
+      "path": "/html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Fonts/tahoma.ttf",
+      "size": 918,
+      "date": 132442481351593768
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/AS3000/TSC/Horizontal/AS3000_TSC_Horizontal.html",
+      "size": 127210,
+      "date": 132440507210189793
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/BACKGROUND.png",
+      "size": 5,
+      "date": 132440507216968624
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/TITLE_BACKGROUND.png",
+      "size": 25,
+      "date": 132440507216968624
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_BKSP.png",
+      "size": 427,
+      "date": 132440507216968624
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_BUTTONBAR_BACK_1.png",
+      "size": 761,
+      "date": 132440507217038560
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_BUTTONBAR_HOME.png",
+      "size": 505,
+      "date": 132440507217098621
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_CB_DOWN_ARROW_1.png",
+      "size": 513,
+      "date": 132440507217168550
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_CB_UP_ARROW_1.png",
+      "size": 502,
+      "date": 132440507217228810
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_CHARTS_1.png",
+      "size": 561,
+      "date": 132440507217288781
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_DIRECT_TO_1.png",
+      "size": 637,
+      "date": 132440507217598547
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_ENTER.png",
+      "size": 482,
+      "date": 132440507217658536
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_INITIALIZATION.png",
+      "size": 748,
+      "date": 132440507218088522
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_MINIMUMS.png",
+      "size": 626,
+      "date": 132440507218208539
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SETTINGS_1.png",
+      "size": 1473,
+      "date": 132440507218888502
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_1.png",
+      "size": 939,
+      "date": 132440507219138504
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_INSET_SETTINGS_1.png",
+      "size": 1201,
+      "date": 132440507219338494
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_MUSIC_1.png",
+      "size": 586,
+      "date": 132440507219478504
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_NEXRAD.png",
+      "size": 990,
+      "date": 132440507219558482
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_PFD_SETTINGS_1.png",
+      "size": 1602,
+      "date": 132440507219708482
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_SENSORS_1.png",
+      "size": 922,
+      "date": 132440507219798475
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_SYSTEM_PROP_1.png",
+      "size": 750,
+      "date": 132440507219868473
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_TERRAIN_1.png",
+      "size": 590,
+      "date": 132440507219938475
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_OBS.png",
+      "size": 12,
+      "date": 132440507219938475
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_TIMERS.png",
+      "size": 728,
+      "date": 132440507219998470
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_WAYPOINT_INFO.png",
+      "size": 1106,
+      "date": 132440507220138485
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SMALL_WEATHER.png",
+      "size": 933,
+      "date": 132440507220198480
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_SPEED_BUG.png",
+      "size": 576,
+      "date": 132440507220408477
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_UTILITIES.png",
+      "size": 1066,
+      "date": 132440507220848442
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_WEATHER_SETTINGS_1.png",
+      "size": 1525,
+      "date": 132440507220988446
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_FIND.png",
+      "size": 3504,
+      "date": 132440507220988446
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_PLAYBACK_PLAY_1.png",
+      "size": 2506,
+      "date": 132440507220988446
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_PREV_SUP.png",
+      "size": 2746,
+      "date": 132440507220988446
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/Shared/Images/TSC/Icons/ICON_MAP_NEXT_SUP.png",
+      "size": 2185,
+      "date": 132440507220988446
+    }
+  ]
+}
+
