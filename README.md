@@ -9,7 +9,8 @@ version 0.1.2
 - new search and play button icons
 - fixed stretching on gradient button borders
 - improved gradient in title image
-- styled hightlit tab (cyanish)*began styling of audio radio page
+- styled hightlit tab (cyanish)
+- began styling of audio radio page
 
 
 
