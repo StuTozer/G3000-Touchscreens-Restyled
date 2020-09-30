@@ -18,8 +18,6 @@ Version 0.1.1 -
 - bugfix: 'degree' symbol wasn't displaying properly.
 
 
-
-
 TODO:
 
 - centre keyboard and number buttons
@@ -37,11 +35,8 @@ TODO:
 
 extras?
 
-
 - brightness adjust page
-
 - document viewer
-
 - animations 
 
 
