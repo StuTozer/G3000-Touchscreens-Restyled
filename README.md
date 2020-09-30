@@ -4,18 +4,17 @@ A mod which re-styles the MSFS 2020 ingame Garmin GTC 580 user interface to look
 
 version 0.1.2 -
 
-*works with patch 1.9.30
-*timer page: increased fontsize on buttons
-*new search and play button icons
-*fixed stretching on gradient button borders
-*improved gradient in title image
-*styled hightlit tab (cyanish)
-*began styling of audio radio page
+works with patch 1.9.30
+timer page: increased fontsize on buttons
+new search and play button icons
+fixed stretching on gradient button borders
+improved gradient in title image
+styled hightlit tab (cyanish)*began styling of audio radio page
 
 
 Version 0.1.1 - 
 
-*bugfix: 'degree' symbol wasn't displaying properly.
+bugfix: 'degree' symbol wasn't displaying properly.
 
 
 
